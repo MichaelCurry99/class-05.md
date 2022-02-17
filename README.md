@@ -1,1 +1,5 @@
-# class-05.md
+# Image, Color, and Text
+
+When a person browses the internet to search for anything they're interested in, usually that website will have an image. Having an image is important when you want to have the website created, because this will be one of the most important features. Using a CSS editor can become easy, when you want to setup an image. In CSS, the use Color is also essential when you need a little more depth of what you'd like your website to be. If that is most important to you in a website, the I think CSS will be the best programming tool.
+
+As for what JPEG, PNG. and GIF can do, this can help create different effects when you look at an image. In a JPEG. file, it is just a image that you can look at which doesn't do much but display what you can see. For a PNG, it can be afile without a background, usually displayed with checkers. In a GIF. document, we can have an image that is animated and can help bring life into a image file. So that's what I know so far about that, hopefully this helps!
